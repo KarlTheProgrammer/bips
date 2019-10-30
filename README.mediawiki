@@ -778,4 +778,11 @@ Bitcoin (BSV) Improvement Proposals. To collaborate on new BIPs, please join [ht
 | Roger Taylor
 | Standard
 | Draft
+|-
+| [[bip-0278.mediawiki|278]]
+| Applications
+| New Scheme for BIP-0032 Extended Key Encoding
+| Curtis Ellis
+| Standard
+| Draft
 |}
